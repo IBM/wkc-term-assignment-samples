@@ -54,7 +54,7 @@ Complete the following steps in the Cloud Pak for Data user interface. Use the s
 
 ## <a id="p2">Part 2:</a> Load and run the sample notebook 
 
-Make sure you downloaded the sample notebook file [`term_prediction_model.ipynb`](cpd4.6/notebooks/term_prediction_model.ipynb) from the repository.
+Make sure you downloaded the sample notebook file [`term_prediction_model.ipynb`](term_prediction_model.ipynb) from the repository.
 
 Complete the following steps in the Cloud Pak for Data user interface. Use the same user ID that you used for checking the prerequisites.
 
